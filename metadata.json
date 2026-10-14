@@ -1,0 +1,6 @@
+{
+  "name": "Factorica: Mathematical Birthday Adventure for Shamaila",
+  "description": "An interactive, animated mathematical birthday adventure featuring Factorica the living math mascot, with custom physics, interactive equations, theorem proofs, and birthday surprises.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
